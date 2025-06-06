@@ -1,0 +1,1 @@
+# Indica que 'auth' é um subpacote

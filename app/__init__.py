@@ -1,0 +1,1 @@
+# Indica que 'app' é um pacote Python
