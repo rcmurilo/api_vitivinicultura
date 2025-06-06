@@ -49,7 +49,7 @@ api_vitivinicultura/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seuusuario/api_vitivinicultura.git
+git clone https://github.com/rcmurilo/api_vitivinicultura.git
 cd api_vitivinicultura
 ```
 
@@ -74,7 +74,6 @@ Crie um arquivo `.env` com:
 ```
 USERNAME=admin
 PASSWORD=admin123
-SECRET_KEY=chave_super_secreta
 ```
 
 ### 5. Execute a aplicação
