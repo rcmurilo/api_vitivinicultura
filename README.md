@@ -21,14 +21,29 @@ Esta API realiza raspagem (scraping) dos dados públicos disponíveis no site da
 ```
 api_vitivinicultura/
 ├── app/
-│   ├── auth.py
-│   ├── database.py
-│   ├── main.py
-│   ├── models.py
-│   └── scraper.py
+|   ├── auth/
+|   |   ├── __init__.py
+│   |   ├── security.py
+|   ├── db/
+│   |   ├── __init__.py
+│   |   ├── database.py
+|   |   └── models.py
+|   ├── routes/
+│   |   ├── __init__.py
+|   |   ├── comercializacao.py
+|   |   ├── exportacao.py
+|   |   ├── importacao.py
+|   |   ├── processamento.py
+|   |   └── producao.py
+|   ├── services/
+│   |   ├── __init__.py
+│   |   └── scrapers.py
+|   ├── __init__.py
+│   └── main.py
 ├── vitivinicultura.db
 ├── requirements.txt
 ├── .env
+├── procfile
 └── README.md
 ```
 
