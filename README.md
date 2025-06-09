@@ -1,6 +1,6 @@
 # API de Vitivinicultura - Embrapa
 
-Esta API realiza raspagem (scraping) dos dados públicos disponíveis no site da Embrapa sobre vitivinicultura brasileira, abrangendo produção, processamento, comercialização, importação e exportação de uvas e derivados. Os dados raspados são armazenados em um banco SQLite para uso posterior, como por exemplo alimentar modelos de Machine Learning.
+Esta API realiza raspagem (scraping) dos dados públicos disponíveis no site da Embrapa sobre vitivinicultura brasileira, abrangendo produção, processamento, comercialização, importação e exportação de uvas e derivados. Os dados raspados são armazenados em um banco SQLite para uso posterior, como por exemplo alimentar modelos de Machine Learning. Acessível publicamente em: https://api-vitivinicultura-w111.onrender.com
 
 ---
 
